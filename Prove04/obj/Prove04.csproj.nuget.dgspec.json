@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jayton88/Desktop/School/C#/Prove04/Prove04.csproj": {}
+    "/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/Prove04.csproj": {}
   },
   "projects": {
-    "/Users/jayton88/Desktop/School/C#/Prove04/Prove04.csproj": {
+    "/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/Prove04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jayton88/Desktop/School/C#/Prove04/Prove04.csproj",
+        "projectUniqueName": "/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/Prove04.csproj",
         "projectName": "Prove04",
-        "projectPath": "/Users/jayton88/Desktop/School/C#/Prove04/Prove04.csproj",
+        "projectPath": "/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/Prove04.csproj",
         "packagesPath": "/Users/jayton88/.nuget/packages/",
-        "outputPath": "/Users/jayton88/Desktop/School/C#/Prove04/obj/",
+        "outputPath": "/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jayton88/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/bin/Debug/net7.0/Prove04
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/bin/Debug/net7.0/Prove04.deps.json
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/bin/Debug/net7.0/Prove04.runtimeconfig.json
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/bin/Debug/net7.0/Prove04.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/bin/Debug/net7.0/Prove04.pdb
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.csproj.AssemblyReference.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.AssemblyInfoInputs.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.AssemblyInfo.cs
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.csproj.CoreCompileInputs.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/refint/Prove04.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.pdb
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/Prove04.genruntimeconfig.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove04/obj/Debug/net7.0/ref/Prove04.dll
