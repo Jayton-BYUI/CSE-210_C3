@@ -11,9 +11,8 @@ class Program
             Console.WriteLine("Welcome to the scripture hiding app!");
             // Asks the user what scripture they want
             Console.Write("Enter a scripture reference (e.g. John 3:16): ");
-            string reference = Console.ReadLine();
+            Scripture scripture = new Scripture(Console.ReadLine());
             // Pulls the scripture from the csv file
-            Scripture scripture = new Scripture(reference);
 
             Console.WriteLine(scripture.scriptureString());
         }

@@ -21,3 +21,10 @@
 /Users/jayton88/Desktop/School/CSE-210_C3/Prove03/obj/Debug/net7.0/C#.dll
 /Users/jayton88/Desktop/School/CSE-210_C3/Prove03/obj/Debug/net7.0/refint/C#.dll
 /Users/jayton88/Desktop/School/CSE-210_C3/Prove03/obj/Debug/net7.0/C#.pdb
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/bin/Debug/net7.0/C#
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/bin/Debug/net7.0/C#.deps.json
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/bin/Debug/net7.0/C#.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/bin/Debug/net7.0/C#.pdb
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Prove03/obj/Debug/net7.0/ref/C#.dll

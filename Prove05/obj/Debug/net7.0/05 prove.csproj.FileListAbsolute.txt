@@ -1,0 +1,15 @@
+/Users/jayton88/Downloads/05 prove/bin/Debug/net7.0/05 prove
+/Users/jayton88/Downloads/05 prove/bin/Debug/net7.0/05 prove.deps.json
+/Users/jayton88/Downloads/05 prove/bin/Debug/net7.0/05 prove.runtimeconfig.json
+/Users/jayton88/Downloads/05 prove/bin/Debug/net7.0/05 prove.dll
+/Users/jayton88/Downloads/05 prove/bin/Debug/net7.0/05 prove.pdb
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.csproj.AssemblyReference.cache
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.AssemblyInfoInputs.cache
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.AssemblyInfo.cs
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.csproj.CoreCompileInputs.cache
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.dll
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/refint/05 prove.dll
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.pdb
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/05 prove.genruntimeconfig.cache
+/Users/jayton88/Downloads/05 prove/obj/Debug/net7.0/ref/05 prove.dll
