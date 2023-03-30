@@ -1,0 +1,15 @@
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.csproj.AssemblyReference.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.AssemblyInfoInputs.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.AssemblyInfo.cs
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.csproj.CoreCompileInputs.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/bin/Debug/net7.0/Abstraction
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/bin/Debug/net7.0/Abstraction.deps.json
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/bin/Debug/net7.0/Abstraction.runtimeconfig.json
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/bin/Debug/net7.0/Abstraction.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/bin/Debug/net7.0/Abstraction.pdb
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/refint/Abstraction.dll
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.pdb
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/Abstraction.genruntimeconfig.cache
+/Users/jayton88/Desktop/School/CSE-210_C3/Finals/Abstraction/obj/Debug/net7.0/ref/Abstraction.dll

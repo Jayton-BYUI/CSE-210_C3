@@ -9,7 +9,7 @@ public class Checklist:Goals{
       _jc_bonusPoint = bonus;
       _jc_currentCount = currentCount;
    }
-
+   // This is our checklist or way of showing our points
    public override void Display(int i){
       if (isChecked){
          Console.WriteLine($"The goals are:\n{i} [x] {_jc_name} ({_jc_type})");
